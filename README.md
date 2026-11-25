@@ -1,14 +1,9 @@
-<div align="center">
-
-<img src="MBG 6.jpeg" width="180">
-
-</div>
 <h1 align="center">Hi 👋, I'm AGAM AL HAKIM HASIBUAN</h1>
 <h3 align="center">SOFTWARE ENGINEERING</h3>
 
 <p align="left"> <img src="MBG 5.jpeg" alt="untagurun-01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=untagurun-01" alt="untagurun-01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="MBG 6.jpes" alt="untagurun-01" /></a> </p>
 
 - 🔭 I’m currently working on [SI-ASPIRA](https://si-aspira.vercel.app)
 
