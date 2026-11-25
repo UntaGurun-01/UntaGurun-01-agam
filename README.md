@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="MBG 1.jpeg" width="180" height="180">
+<img src="MBG 1.jpeg" width="180">
 
 # 👋 Halo, saya Agam Al Hakim Hasibuan
 
