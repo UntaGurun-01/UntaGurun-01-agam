@@ -1,5 +1,10 @@
+<div align="center">
+
+<img src="https://github.com/UntaGurun-01.png" width="180">
+
 # 👋 Halo, saya Agam Al Hakim Hasibuan
 
+</div>
 🎓 **Mahasiswa Teknik Informatika** yang memiliki ketertarikan pada pengembangan perangkat lunak, pengembangan aplikasi berbasis web, UI/UX Design, serta pengembangan sistem informasi.
 
 Saya aktif mengembangkan berbagai project sebagai bagian dari proses belajar dan pengembangan kemampuan di bidang teknologi. Project yang saya kerjakan mencakup **sistem informasi, aplikasi web, marketplace pendidikan, sistem administrasi, sistem pengaduan, aplikasi UMKM, hingga pengembangan konsep AI berbasis web**.
