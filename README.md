@@ -5,203 +5,44 @@
 # 👋 Halo, saya Agam Al Hakim Hasibuan
 
 </div>
-🎓 **Mahasiswa Teknik Informatika** yang memiliki ketertarikan pada pengembangan perangkat lunak, pengembangan aplikasi berbasis web, UI/UX Design, serta pengembangan sistem informasi.
+<h1 align="center">Hi 👋, I'm AGAM AL HAKIM HASIBUAN</h1>
+<h3 align="center">SOFTWARE ENGINEERING</h3>
 
-Saya aktif mengembangkan berbagai project sebagai bagian dari proses belajar dan pengembangan kemampuan di bidang teknologi. Project yang saya kerjakan mencakup **sistem informasi, aplikasi web, marketplace pendidikan, sistem administrasi, sistem pengaduan, aplikasi UMKM, hingga pengembangan konsep AI berbasis web**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=untagurun-01&label=Profile%20views&color=0e75b6&style=flat" alt="untagurun-01" /> </p>
 
-Saya memiliki pengalaman dalam membangun aplikasi mulai dari sisi **frontend, backend, database, integrasi sistem, hingga perancangan antarmuka pengguna**. Saya juga terbiasa menggunakan Git dan GitHub untuk mengelola serta mendokumentasikan project.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=untagurun-01" alt="untagurun-01" /></a> </p>
 
----
+- 🔭 I’m currently working on [SI-ASPIRA](https://si-aspira.vercel.app)
 
-## 🎓 Pendidikan
+- 🌱 I’m currently learning **Laravel, Python, Flask, UI/UX Design, REST API, and AI-powered Web Development**
 
-**Universitas Pahlawan Tuanku Tambusai**  
-📍 Bangkinang Kota, Kabupaten Kampar, Riau  
-**Program Studi Teknik Informatika**  
-**2024 – Sekarang (2026)**
+- 👯 I’m looking to collaborate on [SI-kas kelas](https://kas-kelas-ivory.vercel.app/)
 
-### 📚 Fokus Pembelajaran
+- 🤝 I’m looking for help with [Teras Rumah Aca](https://project-web-teras-rumah-do80ap2xh-agamalhakim-devs-projects.vercel.app)
 
-- Pemrograman dan Pengembangan Perangkat Lunak
-- Perancangan dan Implementasi Perangkat Lunak
-- Pengembangan Aplikasi Berbasis Web
-- Basis Data
-- UI/UX Design
-- Analisis dan Perancangan Sistem
-- Sistem Informasi
-- Pengembangan Software
+- 👨‍💻 All of my projects are available at [https://github.com/UntaGurun-01](https://github.com/UntaGurun-01)
 
----
+- 📝 I regularly write articles on [-](-)
 
-## 💻 Keahlian
+- 💬 Ask me about **Web Development, Laravel, PHP, Python, Flask, MySQL, UI/UX Design, CRUD, REST API, and Dashboard Development**
 
-### 🌐 Web Development
+- 📫 How to reach me **GitHub: UntaGurun-01**
 
-- Frontend Development
-- Backend Development
-- Responsive Web Design
-- CRUD & Database Management
-- Sistem Autentikasi & Login
-- REST API
-- Dashboard & Admin Panel
-- Sistem Informasi Berbasis Web
+- 📄 Know about my experiences [-](-)
 
-### 🎨 UI/UX Design
+- ⚡ Fun fact **Bisa memperbaiki bug, tapi kalau hidup sendiri masih debugging**
 
-- User Interface Design
-- User Experience Design
-- Wireframing
-- Prototyping
-- User Persona
-- Dashboard Design
-- Responsive Design
-- Design System
-- Perancangan aplikasi berdasarkan kebutuhan pengguna
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/@hakimagamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@hakimagamal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@gma_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gma_69" height="30" width="40" /></a>
+</p>
 
-### 🗄️ Database
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-- MySQL
-- SQLite
-- Database Design
-- Relational Database
-- CRUD Database
-- Database Integration
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=untagurun-01&show_icons=true&locale=en&layout=compact" alt="untagurun-01" /></p>
 
-### 🔧 Development Tools
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=untagurun-01&show_icons=true&locale=en" alt="untagurun-01" /></p>
 
-- Git
-- GitHub
-- Visual Studio Code
-- XAMPP
-- Composer
-- npm
-- REST API
-
----
-
-## 🧑‍💻 Bahasa Pemrograman
-
-| Bahasa | Penggunaan |
-|---|---|
-| 🐍 **Python** | Backend & Web Development |
-| 🐘 **PHP** | Backend & Web Development |
-| 🟨 **JavaScript** | Frontend & Interactive Web |
-| 🌐 **HTML5** | Struktur Web |
-| 🎨 **CSS3** | Styling & Responsive Design |
-| 🗃️ **SQL** | Database & Data Management |
-
----
-
-## ⚙️ Framework & Library
-
-### Backend
-
-- **Laravel** — PHP Web Framework
-- **Flask** — Python Web Framework
-
-### Frontend & UI
-
-- **Bootstrap**
-- **Tailwind CSS**
-- **JavaScript**
-- **Chart.js**
-
-### Database
-
-- **MySQL**
-- **SQLite**
-- **Flask-SQLAlchemy**
-
----
-
-## 🚀 Project
-
-### 💰 Sistem Kas Kelas
-Aplikasi pengelolaan kas kelas berbasis web dengan fitur pengelolaan anggota, iuran, transaksi, riwayat, pengumuman, pengaturan, profil, serta dashboard.
-
-**Tech:** Python • Flask • MySQL • HTML • CSS • JavaScript • Chart.js
-
-### 🏫 Sistem Absensi Kelas
-Sistem informasi absensi sekolah berbasis web dengan fitur absensi, jadwal, riwayat, notifikasi, profil siswa, dan panel administrator.
-
-**Tech:** PHP • SQLite • HTML • CSS • JavaScript • Bootstrap • Tailwind CSS
-
-### 📢 Si ASPIRA
-Sistem informasi pengaduan mahasiswa untuk lingkungan Program Studi Teknik Informatika.
-
-**Tech:** Web Development • Database • UI/UX
-
-### 🤖 NexusCore AI
-Konsep sistem asisten AI internal perusahaan berbasis web dengan fokus pada kebutuhan perusahaan dan pengalaman pengguna.
-
-**Tech:** Web Development • UI/UX • AI Concept
-
-### 🍽️ Teras Rumah Aca
-Website UMKM yang dikembangkan untuk mendukung kebutuhan digitalisasi bisnis dan layanan usaha.
-
-**Tech:** Web Development • UI/UX • Database
-
-### 🎓 ScholarClassroom
-Konsep marketplace pendidikan berbasis web untuk menyediakan platform pembelajaran dan layanan pendidikan.
-
-**Tech:** Web Development • UI/UX • Database
-
----
-
-## 📚 Currently Learning
-
-- 🐍 Python & Flask
-- 🐘 PHP & Laravel
-- 🌐 Web Application Development
-- 🎨 UI/UX Design
-- 🗄️ Database Management
-- 🤖 AI-powered Web Applications
-- 📊 Data Visualization
-- 🔐 Secure Web Application
-- 🚀 Software Development
-
----
-
-## 🎯 Development Goals
-
-Saya terus mengembangkan kemampuan di bidang **Software Development dan Web Development** melalui berbagai project akademik, project pribadi, dan eksperimen teknologi.
-
-Saya memiliki tujuan untuk membangun aplikasi yang tidak hanya berfungsi secara teknis, tetapi juga memiliki **UI/UX yang baik, struktur sistem yang jelas, responsif, aman, dan nyaman digunakan**.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-`Python` `PHP` `JavaScript` `HTML5` `CSS3` `SQL`
-
-**Frameworks**
-
-`Laravel` `Flask` `Bootstrap` `Tailwind CSS`
-
-**Database**
-
-`MySQL` `SQLite`
-
-**Libraries**
-
-`Chart.js` `Flask-SQLAlchemy`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `XAMPP` `Composer`
-
----
-
-## 📊 GitHub
-
-Saya menggunakan GitHub untuk menyimpan, mengembangkan, dan mendokumentasikan berbagai project yang sedang maupun telah saya kerjakan.
-
----
-
-## 📫 Let's Connect
-
-Terbuka untuk belajar, berkolaborasi, mengembangkan project, dan berdiskusi seputar **Web Development, Software Development, UI/UX, Database, dan teknologi**.
-
-### 👋 Thanks for visiting my profile!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=untagurun-01&" alt="untagurun-01" /></p>
