@@ -2,13 +2,11 @@
 
 <img src="MBG 6.jpeg" width="180">
 
-# 👋 Halo, saya Agam Al Hakim Hasibuan
-
 </div>
 <h1 align="center">Hi 👋, I'm AGAM AL HAKIM HASIBUAN</h1>
 <h3 align="center">SOFTWARE ENGINEERING</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=untagurun-01&label=Profile%20views&color=0e75b6&style=flat" alt="untagurun-01" /> </p>
+<p align="left"> <img src="MBG 5.jpeg" alt="untagurun-01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=untagurun-01" alt="untagurun-01" /></a> </p>
 
